@@ -71,13 +71,18 @@
     color: #fff !important;
 }
 
-._585- ._4w98._4w97,
-._585- ._4w98._4w97:hover,
+._ohf ._585- ._4w98._4w97,
+._ohf ._585- ._4w98._4w97:hover,
 ._4jy1 {
     border-radius: 1em;
     transition: all .3s;
     background-color: #EF476F;
     border: 1px solid #ccc;
+}
+
+._585- ._4w98._4w97:hover {
+    transition: all .3s;
+    background-color: #EF476F;
 }
 
 ._4jy1:hover {
