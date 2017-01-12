@@ -7,7 +7,8 @@
     border-bottom: 1px solid #555555;
 }
 
-._5vb_, ._5vb_ #contentCol {
+._5vb_,
+._5vb_ #contentCol {
     background-color: #efefef;
 }
 
@@ -17,26 +18,34 @@
     border: 1px solid #777;
     border-radius: 5px;
 }
-._585-:hover,._585-:focus {
+
+._585-:hover,
+._585-:focus {
     background-color: #fff;
 }
 
-._38vo img, ._55lq img, ._ohe img, ._2s25 img {
+._38vo img,
+._55lq img,
+._ohe img,
+._2s25 img {
     border-radius: 50%;
 }
 
-._38vo:after, ._55lq:after, .img:after, ._2s25:after {
+._38vo:after,
+._55lq:after,
+.img:after,
+._2s25:after {
     border-radius: 50%;
 }
 
 ._3z_5 {
-	border-radius: 1em;
+    border-radius: 1em;
     min-width: 6px;
     padding: 1px 4px;
 }
 
 ._4-u2 {
-    box-shadow: 1px 1px 3px rgba(100,100,100,.1);
+    box-shadow: 1px 1px 3px rgba(100, 100, 100, .1);
 }
 
 ._6ks img {
@@ -44,14 +53,17 @@
 }
 
 .accessible_elem {
-	min-width: 6px;
+    min-width: 6px;
 }
 
-.fbxWelcomeBoxSmallRow, ._5afe {
+.fbxWelcomeBoxSmallRow,
+._5afe {
     transition: all .3s !important;
 }
-.fbxWelcomeBoxSmallRow:hover, ._5afe:hover {
-	background-color: rgb(64, 128, 255) !important;
+
+.fbxWelcomeBoxSmallRow:hover,
+._5afe:hover {
+    background-color: rgb(64, 128, 255) !important;
     color: #fff !important;
 }
 
@@ -59,7 +71,9 @@
     color: #fff !important;
 }
 
-._585- ._4w98._4w97, ._585- ._4w98._4w97:hover, ._4jy1 {
+._585- ._4w98._4w97,
+._585- ._4w98._4w97:hover,
+._4jy1 {
     border-radius: 1em;
     transition: all .3s;
     background-color: #EF476F;
@@ -67,13 +81,15 @@
 }
 
 ._4jy1:hover {
-	background-color: #fff;
+    background-color: #fff;
     border: 1px solid #ddd;
     color: #EF476F;
 }
+
 ._55ln {
     transition: all .3s;
 }
+
 ._55ln:hover {
     background-color: #F3B700 !important;
     color: #fff !important;
